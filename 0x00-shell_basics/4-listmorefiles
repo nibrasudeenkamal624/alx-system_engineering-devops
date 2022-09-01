@@ -1,2 +1,2 @@
 #!/bin/bash
- command ls -al~
+ ls -al ~
